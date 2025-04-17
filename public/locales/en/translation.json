@@ -19,8 +19,8 @@
     "about": "About"
   },
   "login_page": {
-    "title": "Welcome to GlobalFleet",
-    "subtitle": "GlobalFleet Invoices Platform.",
+    "title": "Welcome to ITrip",
+    "subtitle": "ITrip Invoices Platform.",
     "email_placeholder": "Email",
     "password_placeholder": "Password",
     "remember": "Remember me",
